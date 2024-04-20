@@ -1,5 +1,4 @@
-- 👋  I'm Shubhrika. 
-- 👀  Exploring and experimenting with robotics and applications of vision in robotics
+- 👋  👀  Exploring and experimenting with robotics and applications of vision in robotics
 - 🌱 I’m currently learning and exploring Perception based path planning in robots
 
 
